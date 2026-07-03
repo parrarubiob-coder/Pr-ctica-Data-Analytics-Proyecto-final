@@ -1,20 +1,20 @@
-# 📊 Olist E-Commerce Dashboard
+# Olist E-Commerce Dashboard
 
 An end-to-end Data Analytics project using the **Brazilian Olist E-Commerce Dataset**. The project combines **Python** for data cleaning and preparation with **Power BI** for interactive dashboard development, providing business insights into sales, logistics, customers, sellers, and product performance.
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
-- ✅ Cleaned and integrated **9 relational datasets** into a single analytical model.
-- ✅ Built a **4-page interactive Power BI dashboard** with more than **25 KPIs and visualizations**.
-- ✅ Performed data cleaning, feature engineering, and data modeling using **Python (Pandas)**.
-- ✅ Created an analytical dataset optimized for Business Intelligence.
-- ✅ Identified key business insights about sales performance, logistics, customer behavior, and product categories.
+- Cleaned and integrated **9 relational datasets** into a single analytical model.
+- Built a **4-page interactive Power BI dashboard** with more than **25 KPIs and visualizations**.
+- Performed data cleaning, feature engineering, and data modeling using **Python (Pandas)**.
+- Created an analytical dataset optimized for Business Intelligence.
+- Identified key business insights about sales performance, logistics, customer behavior, and product categories.
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 The main objective of this project is to transform raw e-commerce data into meaningful business insights by:
 
@@ -25,7 +25,7 @@ The main objective of this project is to transform raw e-commerce data into mean
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 - Python
   - Pandas
@@ -38,33 +38,39 @@ The main objective of this project is to transform raw e-commerce data into mean
 
 ---
 
+# Project Structure
+
 # 📂 Project Structure
 
 ```text
 Olist-Ecommerce-Dashboard
 │
-├── data
-│   ├── raw
-│   └── processed
+├── Data_Processed
+│   ├── df_final.csv.zip
+│   ├── geolocation_clean.csv
+│   ├── payments.csv
+│   └── sellers.csv
 │
-├── notebooks
-│   └── data_cleaning.ipynb
+├── Images
+│   ├── 1_sales_overview.png
+│   ├── 2_logistics_performance.png
+│   ├── 3_customer_seller_analysis.png
+│   ├── 4_product_performance.png
+│   └── Proyecto final Olist.pdf
 │
-├── powerbi
-│   └── Olist_Ecommerce_Dashboard.pbix
+├── Notebooks
+│   └── Proyecto_final_Olist.ipynb
 │
-├── images
-│   ├── sales_overview.png
-│   ├── logistics_performance.png
-│   ├── customer_seller_analysis.png
-│   └── product_performance.png
+├── Power BI
+│   └── Proyecto final Olist.pbix
 │
-└── README.md
+├── README.md
+└── README_ES.md
 ```
 
 ---
 
-# 🐍 Python Data Preparation
+# Python Data Preparation
 
 The Python notebook performs the complete **ETL (Extract, Transform, Load)** process.
 
@@ -85,13 +91,13 @@ The final dataset was optimized for Power BI analysis.
 
 ---
 
-# 📈 Power BI Dashboard
+# Power BI Dashboard
 
 The dashboard consists of **four interactive pages**.
 
 ---
 
-## 📊 1. Sales Overview
+## 1. Sales Overview
 
 Provides an executive overview of business performance.
 
@@ -112,7 +118,7 @@ Provides an executive overview of business performance.
 
 ---
 
-## 🚚 2. Logistics Performance
+## 2. Logistics Performance
 
 Analyzes order fulfillment and delivery efficiency.
 
@@ -133,7 +139,7 @@ Analyzes order fulfillment and delivery efficiency.
 
 ---
 
-## 👥 3. Customer & Seller Analysis
+## 3. Customer & Seller Analysis
 
 Explores the geographical distribution of customers and sellers.
 
@@ -153,7 +159,7 @@ Explores the geographical distribution of customers and sellers.
 
 ---
 
-## 📦 4. Product Performance
+## 4. Product Performance
 
 Analyzes product category performance and purchasing trends.
 
@@ -173,7 +179,7 @@ Analyzes product category performance and purchasing trends.
 
 ---
 
-# 📊 Key Insights
+# Key Insights
 
 Some of the insights obtained from the analysis include:
 
@@ -186,7 +192,7 @@ Some of the insights obtained from the analysis include:
 
 ---
 
-# 📁 Dataset
+# Dataset
 
 **Brazilian E-Commerce Public Dataset by Olist**
 
@@ -194,7 +200,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
-# 💼 Skills Demonstrated
+# Skills Demonstrated
 
 - Data Cleaning
 - Data Wrangling
@@ -211,27 +217,26 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
-# 📷 Dashboard Preview
+# Dashboard Preview
 
 ### Sales Overview
 
-*(Insert screenshot here)*
+![Sales Overview](Images/1_sales_overview.png)
 
 ### Logistics Performance
 
-*(Insert screenshot here)*
+![Logistics Performance](Images/2_logistics_performance.png)
 
 ### Customer & Seller Analysis
 
-*(Insert screenshot here)*
+![Customer & Seller Analysis](Images/3_customer_seller_analysis.png)
 
 ### Product Performance
 
-*(Insert screenshot here)*
-
+![Product Performance](Images/4_product_performance.png)
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Beatriz Parra Rubio**
 
