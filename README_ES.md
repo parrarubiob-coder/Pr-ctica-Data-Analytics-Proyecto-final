@@ -1,5 +1,8 @@
 # Dashboard de E-Commerce Olist
 
+- Español
+- English: [English version](README.md)
+
 Proyecto completo de **Análisis de Datos** utilizando el **Brazilian Olist E-Commerce Dataset**. El proyecto combina **Python** para la limpieza y preparación de datos con **Power BI** para el desarrollo de un dashboard interactivo, permitiendo analizar el rendimiento de las ventas, la logística, los clientes, los vendedores y los productos.
 
 ---
@@ -221,20 +224,19 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ### Sales Overview
 
-*(Añadir captura de pantalla)*
+![Sales Overview](Images/1_sales_overview.png)
 
 ### Logistics Performance
 
-*(Añadir captura de pantalla)*
+![Logistics Performance](Images/2_logistics_performance.png)
 
 ### Customer & Seller Analysis
 
-*(Añadir captura de pantalla)*
+![Customer & Seller Analysis](Images/3_customer_seller_analysis.png)
 
-### ![Uploading 1_sales_overview.png…]()
-Product Performance
+## Product Performance
 
-*(Añadir captura de pantalla)*
+![Product Performance](Images/4_product_performance.png)
 
 ---
 
@@ -243,7 +245,3 @@ Product Performance
 **Beatriz Parra Rubio**
 
 Data Analyst | Power BI | Python | SQL
-
-LinkedIn: *(Añadir enlace)*
-
-GitHub: *(Añadir enlace)*
