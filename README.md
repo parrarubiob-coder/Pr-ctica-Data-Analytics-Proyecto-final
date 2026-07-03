@@ -1,5 +1,10 @@
 # Olist E-Commerce Dashboard
 
+## Language
+
+- English (default)
+- Español: [Ver versión en español](README_ES.md)
+
 An end-to-end Data Analytics project using the **Brazilian Olist E-Commerce Dataset**. The project combines **Python** for data cleaning and preparation with **Power BI** for interactive dashboard development, providing business insights into sales, logistics, customers, sellers, and product performance.
 
 ---
@@ -242,6 +247,3 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Data Analyst | Power BI | Python | SQL
 
-LinkedIn: *(Add your LinkedIn URL)*
-
-GitHub: *(Add your GitHub URL)*
