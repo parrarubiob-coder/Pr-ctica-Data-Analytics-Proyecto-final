@@ -1,20 +1,20 @@
-# 📊 Dashboard de E-Commerce Olist
+# Dashboard de E-Commerce Olist
 
 Proyecto completo de **Análisis de Datos** utilizando el **Brazilian Olist E-Commerce Dataset**. El proyecto combina **Python** para la limpieza y preparación de datos con **Power BI** para el desarrollo de un dashboard interactivo, permitiendo analizar el rendimiento de las ventas, la logística, los clientes, los vendedores y los productos.
 
 ---
 
-## 🚀 Aspectos destacados del proyecto
+## Aspectos destacados del proyecto
 
-- ✅ Limpieza e integración de **9 conjuntos de datos relacionales** en un único modelo analítico.
-- ✅ Desarrollo de un **dashboard interactivo en Power BI** compuesto por **4 páginas** y más de **25 KPIs y visualizaciones**.
-- ✅ Aplicación de procesos de limpieza, transformación y modelado de datos mediante **Python (Pandas)**.
-- ✅ Creación de un dataset optimizado para Business Intelligence.
-- ✅ Obtención de información clave sobre ventas, logística, comportamiento de clientes y rendimiento de productos.
+- Limpieza e integración de **9 conjuntos de datos relacionales** en un único modelo analítico.
+- Desarrollo de un **dashboard interactivo en Power BI** compuesto por **4 páginas** y más de **25 KPIs y visualizaciones**.
+- Aplicación de procesos de limpieza, transformación y modelado de datos mediante **Python (Pandas)**.
+- Creación de un dataset optimizado para Business Intelligence.
+- Obtención de información clave sobre ventas, logística, comportamiento de clientes y rendimiento de productos.
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 El objetivo principal de este proyecto es transformar datos brutos de un e-commerce en información útil para la toma de decisiones mediante:
 
@@ -25,7 +25,7 @@ El objetivo principal de este proyecto es transformar datos brutos de un e-comme
 
 ---
 
-# 🛠️ Herramientas utilizadas
+# Herramientas utilizadas
 
 - **Python**
   - Pandas
@@ -38,7 +38,7 @@ El objetivo principal de este proyecto es transformar datos brutos de un e-comme
 
 ---
 
-# 📂 Estructura del proyecto
+# Estructura del proyecto
 
 ```text
 Olist-Ecommerce-Dashboard
@@ -54,17 +54,19 @@ Olist-Ecommerce-Dashboard
 │   └── Olist_Ecommerce_Dashboard.pbix
 │
 ├── images
-│   ├── sales_overview.png
-│   ├── logistics_performance.png
-│   ├── customer_seller_analysis.png
-│   └── product_performance.png
+│   ├── 1_sales_overview.png
+│   ├── 2_logistics_performance.png
+│   ├── 3_customer_seller_analysis.png
+│   └── 4_product_performance.png
 │
 └── README.md
+│
+└── README_ES.md
 ```
 
 ---
 
-# 🐍 Preparación de datos con Python
+# Preparación de datos con Python
 
 El notebook de Python desarrolla todo el proceso de **ETL (Extract, Transform & Load)**.
 
@@ -85,13 +87,13 @@ El resultado final es un modelo de datos preparado para su explotación en Power
 
 ---
 
-# 📈 Dashboard en Power BI
+# Dashboard en Power BI
 
 El dashboard está compuesto por **cuatro páginas interactivas**, cada una enfocada en un área específica del negocio.
 
 ---
 
-## 📊 1. Sales Overview (Visión General de Ventas)
+## 1. Sales Overview (Visión General de Ventas)
 
 Proporciona una visión ejecutiva del rendimiento del negocio.
 
@@ -112,7 +114,7 @@ Proporciona una visión ejecutiva del rendimiento del negocio.
 
 ---
 
-## 🚚 2. Logistics Performance (Rendimiento Logístico)
+## 2. Logistics Performance (Rendimiento Logístico)
 
 Analiza el proceso de entrega y la eficiencia logística.
 
@@ -133,7 +135,7 @@ Analiza el proceso de entrega y la eficiencia logística.
 
 ---
 
-## 👥 3. Customer & Seller Analysis (Análisis de Clientes y Vendedores)
+## 3. Customer & Seller Analysis (Análisis de Clientes y Vendedores)
 
 Analiza la distribución geográfica de clientes y vendedores.
 
@@ -153,7 +155,7 @@ Analiza la distribución geográfica de clientes y vendedores.
 
 ---
 
-## 📦 4. Product Performance (Rendimiento de Productos)
+## 4. Product Performance (Rendimiento de Productos)
 
 Analiza el comportamiento de las distintas categorías de productos.
 
@@ -173,7 +175,7 @@ Analiza el comportamiento de las distintas categorías de productos.
 
 ---
 
-# 📊 Principales conclusiones
+# Principales conclusiones
 
 Algunos de los insights obtenidos durante el análisis son:
 
@@ -186,7 +188,7 @@ Algunos de los insights obtenidos durante el análisis son:
 
 ---
 
-# 📁 Dataset utilizado
+# Dataset utilizado
 
 **Brazilian E-Commerce Public Dataset by Olist**
 
@@ -194,7 +196,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
-# 💼 Competencias desarrolladas
+# Competencias desarrolladas
 
 - Limpieza de datos
 - Transformación de datos
@@ -211,27 +213,28 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 ---
 
-# 📷 Capturas del Dashboard
+# Capturas del Dashboard
 
-### 📊 Sales Overview
-
-*(Añadir captura de pantalla)*
-
-### 🚚 Logistics Performance
+### Sales Overview
 
 *(Añadir captura de pantalla)*
 
-### 👥 Customer & Seller Analysis
+### Logistics Performance
 
 *(Añadir captura de pantalla)*
 
-### 📦 Product Performance
+### Customer & Seller Analysis
+
+*(Añadir captura de pantalla)*
+
+### ![Uploading 1_sales_overview.png…]()
+Product Performance
 
 *(Añadir captura de pantalla)*
 
 ---
 
-# 👩‍💻 Autor
+# Autor
 
 **Beatriz Parra Rubio**
 
