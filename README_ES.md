@@ -40,27 +40,31 @@ El objetivo principal de este proyecto es transformar datos brutos de un e-comme
 
 # Estructura del proyecto
 
+# 📂 Project Structure
+
 ```text
 Olist-Ecommerce-Dashboard
 │
-├── data
-│   ├── raw
-│   └── processed
+├── Data_Processed
+│   ├── df_final.csv.zip
+│   ├── geolocation_clean.csv
+│   ├── payments.csv
+│   └── sellers.csv
 │
-├── notebooks
-│   └── data_cleaning.ipynb
-│
-├── powerbi
-│   └── Olist_Ecommerce_Dashboard.pbix
-│
-├── images
+├── Images
 │   ├── 1_sales_overview.png
 │   ├── 2_logistics_performance.png
 │   ├── 3_customer_seller_analysis.png
-│   └── 4_product_performance.png
+│   ├── 4_product_performance.png
+│   └── Proyecto final Olist.pdf
 │
-└── README.md
+├── Notebooks
+│   └── Proyecto_final_Olist.ipynb
 │
+├── Power BI
+│   └── Proyecto final Olist.pbix
+│
+├── README.md
 └── README_ES.md
 ```
 
